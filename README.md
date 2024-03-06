@@ -8,5 +8,5 @@ Rdv à ne pas manquer !
 ```
 
 1. Donnez vos [disponibilités](https://framadate.org/IpZjcJfyAGnBcqAu)
-2. Proposez vos idées de restaurant en ouvrant une `issue`
+2. Upvotez ou proposez vos idées de restaurant dans la section `issue`
 3. Patientez
