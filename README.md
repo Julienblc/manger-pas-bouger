@@ -6,6 +6,6 @@ Rejoignez la table des légendes pour une soirée de retrouvailles.
 <br><br>
 Rdv à ne pas manquer !
 
-1. Donnez vos [disponibilités](https://framadate.org/IpZjcJfyAGnBcqAu)
+1. Donnez vos [disponibilités](https://framadate.org/IpZjcJfyAGnBcqAu) (Certains ont des enfants, n'hésitez pas à cocher la date du samedi si vous êtes dispo)
 2. Upvotez ou proposez vos idées de restaurant dans la section `issue`
 3. Patientez
