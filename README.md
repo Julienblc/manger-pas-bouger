@@ -10,7 +10,7 @@ Rdv à ne pas manquer !
 *Certains ont des enfants, n'hésitez pas à cocher la date du samedi si vous êtes dispo*
 
 ## 2. Upvotez ou proposez vos idées de restaurant dans la section `issue`
-*Si vous proposez, gardez jsute en tête qu'ul faut qu'on puisse s'y asseoir à 9 sans trop se faxer entre les tables*
+*Si vous proposez, gardez juste en tête qu'il faut qu'on puisse s'y asseoir à 9 sans trop se faxer entre les tables*
 
 ## 3. Patientez
 *Ce sera long je sais...*
