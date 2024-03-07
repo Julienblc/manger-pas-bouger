@@ -12,5 +12,8 @@ Rdv à ne pas manquer !
 ## 2. Upvotez ou proposez vos idées de restaurant dans la section `issue`
 *Si vous proposez, gardez juste en tête qu'il faut qu'on puisse s'y asseoir à 9 sans trop se faxer entre les tables*
 
-## 3. Patientez
+## 3. Faire un lydia à Julien Blanc
+*Il le mérite, donc go le ralass*
+
+## 4. Patientez
 *Ce sera long je sais...*
